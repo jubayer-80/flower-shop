@@ -42,8 +42,25 @@ button{
     gap: 100px; width: 600px;
     align-items: center; 
     padding: 50px 250px;  
-    border-radius: top;
+    
+}  
+.image-1{
+    background-color: bisque;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%; 
+    
 } 
+.image-2{
+       background-color: plum;
+       border-top-left-radius: 40%;
+       border-top-right-radius: 40%;
+} 
+.image-3{
+    background-color: aquamarine;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%; 
+}
+
 .third{
     display: flex;
     background-color: pink;
