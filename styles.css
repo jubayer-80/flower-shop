@@ -22,4 +22,22 @@ button{
 } 
 .line{
     padding-left: 60px;
+}   
+
+.second-title{
+    font-size: 50px;
+    font-weight: 100px;
+    text-align: center;
+    padding: 30px; 
+} 
+.second-description{
+    font-size: 15px;
+    text-align: center; 
+    padding: 20px;
+}
+.pink-flower{
+    display: flex; 
+    gap: 100px; width: 600px;
+    align-items: center; 
+    padding: 50px 250px; 
 }
